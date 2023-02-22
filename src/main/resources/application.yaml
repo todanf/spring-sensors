@@ -5,4 +5,4 @@ spring:
 
 management.endpoints.web.exposure.include: "*"
 
-title: TAP Full Delivery Version1.0
+title: TAP Full Delivery Dev
